@@ -9,12 +9,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/rustam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/rustam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rustam-valizada-8a577319a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rustam-valizada-8a577319a/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/rustam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/rustam" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/valizada.rustam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/valizada.rustam" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/rustam777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/rustam777" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://hashnode.com/@vrustam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@vrustam" height="30" width="40" /></a>
+<a href="https://dev.to/rustam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/rustam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rustam-valizada-8a577319a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rustam-valizada-8a577319a/" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/rustam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/rustam" height="30" width="40" /></a>
+<a href="https://www.facebook.com/valizada.rustam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/valizada.rustam" height="30" width="40" /></a>
+<a href="https://dribbble.com/rustam777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/rustam777" height="30" width="40" /></a>
+<a href="https://hashnode.com/@vrustam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@vrustam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
